@@ -11,12 +11,12 @@ When I’m not working, I love to play electric guitar and doing sport. I’m a 
 **Some of the languages I have used**
 
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 ![LESS](https://img.shields.io/badge/less-000000?style=for-the-badge&logo=less)
-![SASS](https://img.shields.io/badge/-sass-000000?style=flat&logo=sass)
+![SASS](https://img.shields.io/badge/-sass-000000?style=for-the-badge&logo=sass)
 
 **Some of the technologies I have worked with**
 
@@ -29,10 +29,11 @@ When I’m not working, I love to play electric guitar and doing sport. I’m a 
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare)
-![GIT](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GIT](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira)
 
 **Some of the things I am a big fan of**
+
 ![DDD](https://img.shields.io/badge/DDD-Domain--Driven%20Design-000000?style=for-the-badge)
 ![TDD](https://img.shields.io/badge/TDD-Test--Driven%20Development-000000?style=for-the-badge)
 ![BDD](https://img.shields.io/badge/BDD-Behavior--Driven%20Development-000000?style=for-the-badge)
