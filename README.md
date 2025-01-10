@@ -4,8 +4,6 @@ I’m Evgenii Shmanev, a software developer, entrepreneur, and lifelong learner 
 
 Throughout my career of over 20 years, I’ve had the privilege of working with a wide range of organizations, including government agencies, financial institutions, and private enterprises. From building software solutions for public sector services to enhancing operational systems for financial companies, I’ve led projects that modernize legacy systems and streamline complex workflows. Each project has helped me sharpen my ability to deliver customized solutions that meet both technical and business needs.
 
-But I’m not all code! A while ago, I ventured into the world of entrepreneurship and launched a small business outside the tech sphere. It started with a few bumps along the way, but now it’s thriving, catering to kids aged 5 to 17. It’s been amazing watching it grow, and it’s taught me a lot about balancing innovation with the nuts and bolts of running a business.
-
 When I’m not working, I love to play electric guitar and doing sport. I’m a big fan of old-school rock bands such as Metallica, Ozzy Osbourne, Shinedown, Black Label Society, Seether, etc. Whether it’s guitar, sport, or diving into a new challenge, I’m always looking for ways to stay curious and keep learning.
 
 **Some of the languages I have used**
