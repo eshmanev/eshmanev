@@ -1,6 +1,4 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
+[![Header](https://github.com/eshmanev/eshmanev/blob/main/images/background.jpg)](https://eshman.pro)
 
 I’m Evgenii Shmanev, a software developer, entrepreneur, and lifelong learner with a passion for creating efficient solutions and leading projects that make a real-world impact.
 
